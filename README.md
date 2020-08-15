@@ -2,7 +2,7 @@
 
 I'm an excellent Software Engineer :muscle:
 
-I'm really good in:
+I'm really good at:
 
 :boom: Kotlin :ok_hand:
 
