@@ -1,1 +1,1 @@
-Hey there, I'm <b>Felix!</b> :blush:
+Hey there, I'm <b style="color:blue,">Felix!</b> :blush:
