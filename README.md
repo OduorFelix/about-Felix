@@ -1,4 +1,4 @@
-Hey there, I'm <b>Felix!</b> :blush:
+Hey there, I'm <h1>Felix!</h1> :blush:
 
 I'm an excellent Software Engineer :muscle:
 
