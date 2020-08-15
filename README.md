@@ -8,6 +8,8 @@ I'm really good at:
 
 :boom: Java :ok_hand:
 
+:boom: JavaScript :ok_hand:
+
 :boom: React Native :ok_hand:
 
 :boom: PHP :ok_hand:
