@@ -10,6 +10,8 @@ I'm really good at:
 
 :boom: JavaScript :ok_hand:
 
-:boom: React Native :ok_hand:
+:boom: React Native & ReactJS :ok_hand:
+
+:boom: MongoDB & Express :ok_hand:
 
 :boom: PHP :ok_hand:
