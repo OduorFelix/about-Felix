@@ -7,7 +7,7 @@
 - 🔭 I just mastered my MERN stack skills!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other software engineers
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2025 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love MCU 🤣
 
 
